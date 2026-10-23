@@ -1,0 +1,106 @@
+{
+  "brand_name": "CampusNest UP",
+  "tagline": "Curated, Safe & Affordable Student Accommodation Across Uttar Pradesh",
+  "website_domain": "campusnest-up.example.com",
+  "base_url": "https://campusnest-up.example.com",
+  "target_market": {
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "priority_cities": [
+      "Greater Noida",
+      "Noida",
+      "Lucknow",
+      "Kanpur",
+      "Varanasi",
+      "Prayagraj",
+      "Ghaziabad"
+    ],
+    "major_student_zones": [
+      {
+        "city": "Greater Noida",
+        "zones": ["Knowledge Park I, II & III", "Pari Chowk", "Alpha 1 & 2"],
+        "institutions": ["Gautam Buddha University", "Bennett University", "Sharda University", "Galgotias University", "GL Bajaj"]
+      },
+      {
+        "city": "Noida",
+        "zones": ["Sector 125/126 (Expressway)", "Sector 62 (Institutional Area)", "Sector 15/16"],
+        "institutions": ["Amity University Noida", "JSS Academy of Technical Education", "Jaypee Institute of Information Technology (JIIT)"]
+      },
+      {
+        "city": "Lucknow",
+        "zones": ["Hazratganj", "Indira Nagar", "Aliganj", "Faizabad Road"],
+        "institutions": ["University of Lucknow", "Dr. A.P.J. Abdul Kalam Technical University (AKTU)", "Babu Banarasi Das University (BBD)", "IIM Lucknow"]
+      },
+      {
+        "city": "Kanpur",
+        "zones": ["Kalyanpur", "Kakadeo (Coaching Hub)", "Swaroop Nagar"],
+        "institutions": ["IIT Kanpur", "HBTU Kanpur", "CSJM University", "GSVM Medical College"]
+      },
+      {
+        "city": "Varanasi",
+        "zones": ["Lanka", "Assi", "Durgakund", "BHU Road"],
+        "institutions": ["Banaras Hindu University (BHU)", "IIT (BHU) Varanasi", "Mahatma Gandhi Kashi Vidyapith"]
+      },
+      {
+        "city": "Prayagraj",
+        "zones": ["Civil Lines", "Katra", "Allahpur", "Teliyarganj"],
+        "institutions": ["University of Allahabad", "Motilal Nehru National Institute of Technology (MNNIT)", "IIIT Allahabad"]
+      }
+    ]
+  },
+  "brand_pillars": [
+    "Verified listings with zero hidden brokerage",
+    "Proximity to universities and public transit (Metro / Auto)",
+    "High-speed Wi-Fi, 24x7 security, hygienic meal plans",
+    "Student community and peer study environments"
+  ],
+  "brand_voice": "Friendly, empathetic, pragmatic, transparent, and student-first. Avoid overly corporate jargon or pushy sales pitches.",
+  "forbidden_claims": [
+    "Do not invent exact monthly rent numbers unless backed by verified data (use realistic indicative ranges like ₹6,000 - ₹14,000/month with disclaimer).",
+    "Do not claim 100% room availability or guarantee instant move-in without an inquiry.",
+    "Do not state that the author has personally physically inspected the premises.",
+    "Do not make unsubstantiated safety guarantees; mention actual security amenities instead (biometric access, CCTV, 24/7 warden)."
+  ],
+  "verified_internal_urls": [
+    {
+      "url": "https://campusnest-up.example.com/greater-noida/knowledge-park-student-hostels",
+      "anchor_text": "student hostels in Knowledge Park Greater Noida",
+      "target_topic": "Greater Noida student accommodation"
+    },
+    {
+      "url": "https://campusnest-up.example.com/noida/pg-near-amity-university",
+      "anchor_text": "PGs near Amity University Noida",
+      "target_topic": "Noida student accommodation"
+    },
+    {
+      "url": "https://campusnest-up.example.com/lucknow/hostels-near-aktu-bbd",
+      "anchor_text": "student accommodation in Lucknow near AKTU and BBD",
+      "target_topic": "Lucknow student housing"
+    },
+    {
+      "url": "https://campusnest-up.example.com/kanpur/pg-near-kakadeo-coaching-hub",
+      "anchor_text": "PG and hostel rooms in Kakadeo Kanpur",
+      "target_topic": "Kanpur student hostels"
+    },
+    {
+      "url": "https://campusnest-up.example.com/varanasi/student-rooms-near-bhu",
+      "anchor_text": "hostel accommodation near BHU Varanasi",
+      "target_topic": "Varanasi student housing"
+    },
+    {
+      "url": "https://campusnest-up.example.com/prayagraj/pg-hostels-civil-lines-katra",
+      "anchor_text": "student PGs in Katra and Civil Lines Prayagraj",
+      "target_topic": "Prayagraj student accommodation"
+    },
+    {
+      "url": "https://campusnest-up.example.com/guides/student-budgeting-calculator-up",
+      "anchor_text": "Uttar Pradesh student living cost calculator",
+      "target_topic": "Student budgeting and living costs in UP"
+    },
+    {
+      "url": "https://campusnest-up.example.com/booking-guide/first-time-hostel-checklist",
+      "anchor_text": "essential hostel packing and checklist guide",
+      "target_topic": "Hostel booking and packing checklist"
+    }
+  ]
+}

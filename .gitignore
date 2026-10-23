@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.env.local
+venv/
+env/
+ENV/
+
+# Credentials and secrets
+credentials.json
+token.json
+client_secret*.json
+*.pem
+*.key
+
+# Data & Runtime State
+data/*.db
+data/*.sqlite
+data/*.lock
+*.lock
+logs/*.log
+output/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
